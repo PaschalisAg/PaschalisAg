@@ -35,6 +35,6 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114065752&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R?si=8cc1371595b447a8)
 
 # My stats
-![Paschalis' Github stats](https://github-readme-stats.vercel.app/api?username=PaschalisAg&show_icons=true&theme=transparent)
+![Paschalis' Github stats](https://github-readme-stats.vercel.app/api?username=PaschalisAg&show_icons=true&theme=solarized-dark)
 ![Views](https://komarev.com/ghpvc/?username=PaschalisAg&color=0b3c7f&style=for-the-badge)
 ---
