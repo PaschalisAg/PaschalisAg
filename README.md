@@ -36,4 +36,5 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 
 # My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PaschalisAg)
+![Views](https://komarev.com/ghpvc/?username=PaschalisAg&color=green)
 ---
