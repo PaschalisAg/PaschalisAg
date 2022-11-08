@@ -26,7 +26,7 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 ---
 
 ##  📫 How to reach me:
-div align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
