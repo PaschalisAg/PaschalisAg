@@ -1,5 +1,6 @@
 # 👋 Hello everyone, I’m @PaschalisAg
 
+
 ## 👨🏻‍💻 &nbsp; About me and my interests
 
 Currently, I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2185088,6.5568768,14z). My main interests are:
@@ -31,10 +32,6 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 [![RUG mail](https://img.shields.io/badge/RUG%20mail-%2312100E.svg?logo=gmail&style=for-the-badge)](p.agapitos@rug.nl)
 
 ---
-
-## 🎶 Listen along
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1114065752&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R?si=8cc1371595b447a8)
 
 # 📈 &nbsp;My GitHub Stats
 <a href="https://github.com/PaschalisAg">
