@@ -1,6 +1,8 @@
 # 👋 Hello everyone, I’m @PaschalisAg
 
-I am a Teaching and Research Assistant at the University of Groningen (RUG) based in [Groningen, Netherlands](https://www.google.com/maps/@53.2185088,6.5568768,14z). My main interests are:
+## 👨🏻‍💻 &nbsp; About me and my interests
+
+Currently, I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2185088,6.5568768,14z). My main interests are:
 - Computational stylometry
 - Computational semantics
 - Computational Linguistics
