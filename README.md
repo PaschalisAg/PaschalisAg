@@ -15,9 +15,7 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 ![R](https://img.shields.io/badge/-R-9cf)
 ## 🛠 Tools I use
 
-![Jupyter Notebook](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-          )
+![Jupyter Notebook]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />)
 ![RStudio](https://img.shields.io/badge/R%20Studio-%2312100E.svg?&color=9cf)
 ![git](https://img.shields.io/badge/git-%2312100E.svg?logo=git&style=for-the-badge)
 ![github](https://img.shields.io/badge/github-%2312100E.svg?logo=github&style=for-the-badge)
