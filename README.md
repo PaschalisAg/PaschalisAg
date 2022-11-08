@@ -26,10 +26,17 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 ---
 
 ##  📫 How to reach me:
-
-[![gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?logo=gmail&style=for-the-badge)] --> pasxalisag9@gmail.com) 
-
-[![RUG mail](https://img.shields.io/badge/RUG%20mail-%2312100E.svg?logo=gmail&style=for-the-badge)] --> p.agapitos@rug.nl
+div align="center">
+<a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:pasxalisag0@gmail.com">
+<img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="mailto:p.agapitos@rug.nl">
+<img src="https://img.shields.io/badge/RUG%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="RUG mail" />
+</a>
+</div>
 
 ---
 
