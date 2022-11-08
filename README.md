@@ -37,6 +37,7 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 <a href="https://github.com/PaschalisAg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaschalisAg&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaschalisAg&theme=noctis_minimus&layout=compact" />
-  ![](https://komarev.com/ghpvc/?username=PaschalisAg)
 </a>
+![](https://komarev.com/ghpvc/?username=PaschalisAg)
+
 ---
