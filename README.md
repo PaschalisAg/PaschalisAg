@@ -27,9 +27,9 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 
 ##  📫 How to reach me:
 
-[![gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?logo=gmail&style=for-the-badge)](pasxalisag9@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?logo=gmail&style=for-the-badge)] --> pasxalisag9@gmail.com) 
 
-[![RUG mail](https://img.shields.io/badge/RUG%20mail-%2312100E.svg?logo=gmail&style=for-the-badge)](p.agapitos@rug.nl)
+[![RUG mail](https://img.shields.io/badge/RUG%20mail-%2312100E.svg?logo=gmail&style=for-the-badge)] --> p.agapitos@rug.nl
 
 ---
 
