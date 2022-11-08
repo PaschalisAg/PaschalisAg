@@ -10,16 +10,15 @@ During my free time, I try to find a way to understand ancient Greek and Latin t
 
 
 ## 📄 Favourite languages and frameworks
-
-![python](https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge)
-![R](https://img.shields.io/badge/-R-9cf)
-## 🛠 Tools I use
-
-![Jupyter Notebook]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />)
-![RStudio](https://img.shields.io/badge/R%20Studio-%2312100E.svg?&color=9cf)
-![git](https://img.shields.io/badge/git-%2312100E.svg?logo=git&style=for-the-badge)
-![github](https://img.shields.io/badge/github-%2312100E.svg?logo=github&style=for-the-badge)
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="45" height="45"/>
 ---
 
 ##  📫 How to reach me:
