@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp; About me and my interests
 
-Currently, I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2069265,6.6098638,10.45z). My main interests are:
+Currently, I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands]([https://www.google.com/maps/@53.2069265,6.6098638,10.45z](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
 - Computational stylometry
 - Computational semantics
 - Computational Linguistics
