@@ -10,6 +10,7 @@ Currently, I am a Teaching and Research Assistant at the University of Groningen
 - Natural Language Processing (NLP)
 
 During my free time, I try to find a way to understand ancient Greek and Latin texts using coding.
+At the moment, I am looking for a PhD to delve into the subject of Natural Language Processing and Data Science.
 
 
 ## 📄 Languages and Frameworks that I use
