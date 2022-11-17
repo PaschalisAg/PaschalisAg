@@ -24,7 +24,7 @@ At the moment, I am looking for a PhD to delve into the subject of Natural Langu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" alt="Atom" width="45" height="45"/>
 
 </p>
----
+
 
 ##  📫 How to reach me:
 <div align="center">
