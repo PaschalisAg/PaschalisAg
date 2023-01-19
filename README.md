@@ -61,6 +61,6 @@ At the moment, I am looking for a PhD to delve into the subject of Natural Langu
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
