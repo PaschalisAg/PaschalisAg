@@ -20,22 +20,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eLfDPZtLDSrNm/giphy.gif" width="450"/>
 </div>
-
----
-
-<div>
-  <p align="left">
-    I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
-    
-    - Computational stylometry
-    - Computational semantics
-    - Computational Linguistics
-    - Natural Language Processing (NLP)
+<br></br>
+I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
+  - Computational stylometry
+  - Computational semantics
+  - Computational Linguistics
+  - Natural Language Processing (NLP)
 
 During my free time, I try to find a way to understand ancient Greek and Latin texts using coding.
 At the moment, I am looking for a PhD to delve into the subject of Natural Language Processing and Data Science.
-  </p>
-</div>
+
 ---
 
 ## 🛠️ Languages and Frameworks that I use
