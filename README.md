@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/after-effects-tao-trapcodetao-l2JBygxaUuh8aJ6YHn" width="100"/>
+  <img src="https://media.giphy.com/media/l2JBygxaUuh8aJ6YHn/giphy.gif" width="100"/>
 </div>
 
 # 👋 Hello everyone, I’m @PaschalisAg
