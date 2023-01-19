@@ -1,5 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="130"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/pasxalisag9">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:<pasxalisag9@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<p>
+</div>
   <h1>
     Hey there!
     <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60px"/>
