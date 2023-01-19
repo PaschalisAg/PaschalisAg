@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
   <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60px"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/pasxalisag9">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:<pasxalisag9@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-<p>
+    <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/pasxalisag9">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="mailto:<pasxalisag9@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -23,15 +23,19 @@
 
 ---
 
-I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
-- Computational stylometry
-- Computational semantics
-- Computational Linguistics
-- Natural Language Processing (NLP)
+<div>
+  <p align="left">
+    I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
+    
+    - Computational stylometry
+    - Computational semantics
+    - Computational Linguistics
+    - Natural Language Processing (NLP)
 
 During my free time, I try to find a way to understand ancient Greek and Latin texts using coding.
 At the moment, I am looking for a PhD to delve into the subject of Natural Language Processing and Data Science.
-
+  </p>
+</div>
 ---
 
 ## 🛠️ Languages and Frameworks that I use
