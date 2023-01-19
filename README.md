@@ -27,7 +27,7 @@ At the moment, I am looking for a PhD to delve into the subject of Natural Langu
 
 ---
 
-## 📄 Languages and Frameworks that I use
+## 🛠️ Languages and Frameworks that I use
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title = "Python" alt="python" width="45" height="45" />  
