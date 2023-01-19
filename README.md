@@ -42,11 +42,6 @@ At the moment, I am looking for a PhD to delve into the subject of Natural Langu
 ---
 
 # 📈 &nbsp;My GitHub Stats
-<a href="https://github.com/PaschalisAg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaschalisAg&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaschalisAg&theme=noctis_minimus&layout=compact" />
-</a>
-
 # ![Profile Views](https://komarev.com/ghpvc/?username=PaschalisAg&style=for-the-badge)
 
 ---
