@@ -20,7 +20,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eLfDPZtLDSrNm/giphy.gif" width="450"/>
 </div>
-<br></br>
+
+
 I am a Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). My main interests are:
   - Computational stylometry
   - Computational semantics
