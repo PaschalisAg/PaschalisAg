@@ -18,7 +18,7 @@
 # 🧑‍💻 Who am I?
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eLfDPZtLDSrNm/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/eLfDPZtLDSrNm/giphy.gif" width="400" height="300"/>
 </div>
 
 
