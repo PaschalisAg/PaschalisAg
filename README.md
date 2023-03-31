@@ -22,7 +22,7 @@
 </div>
 
 
-My name is Paschalis Agapitos and currently I am working as Teaching and Research Assistant at the University of Groningen (RUG) based in 📍[Groningen, Netherlands](https://www.google.com/maps/@53.2106031,6.5721602,11.48z). 
+My name is Paschalis Agapitos and currently I am a PhD candidate at the Donostia International Physics Center (DIPC) based in 📍[Donostia-San Sebastian in the Basque Country, Spain](https://www.google.com/maps/@43.3111886,-1.9871133,8320m/data=!3m1!1e3). 
 
 My main interests are:
   - Computational stylometry
