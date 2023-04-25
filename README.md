@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60px"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/pasxalisag9">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="mailto:<pasxalisag9@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     <a href="mailto:<paschalis.agapitos@dipc.org>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/Academic_Email-1E71CF?&style=for-the-badge&logo=gmail&logoColor=white" />
