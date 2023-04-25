@@ -30,9 +30,7 @@ My main interests are:
   - Computational Linguistics
   - Natural Language Processing (NLP)
 
-During my free time, I try to find a way to process language by writing code; sometimes by training a model to do that for (it depends on the mood).
-
-In the meantime, I am looking for a PhD to delve into the subject of Natural Language Processing and Computational Linguistics or a job related to these fields.
+During my free time, I try to find a way to process language by writing code; sometimes by training a model to do that (it depends on the mood).
 
 ---
 
