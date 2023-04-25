@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="mailto:<pasxalisag9@gmail.com>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="mailto:<paschalis.agapitos@dipc.org>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/Academic_Email-%1E71CF?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:<paschalis.agapitos@dipc.org>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/Academic_Email-%3366CC?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
 </div>
