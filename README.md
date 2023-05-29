@@ -23,10 +23,12 @@
 </div>
 
 
-My name is Paschalis Agapitos and currently I am a PhD candidate at the Donostia International Physics Center (DIPC) based in 📍[Donostia-San Sebastian in the Basque Country, Spain](https://www.google.com/maps/@43.3111886,-1.9871133,8320m/data=!3m1!1e3). 
+My name is Paschalis Agapitos and currently I am a PhD candidate at the Donostia International Physics Center (DIPC) based in 📍[Donostia-San Sebastian in the Basque Country, Spain](https://www.google.com/maps/@43.3111886,-1.9871133,8320m/data=!3m1!1e3).
+My main research focus is on the implementation of Complex Networks into Cultural Analytics in order to study and examine the relationships and the emergence of ideas between people or ideologies.
 
 My main interests are:
   - Digital Humanities (in a broad sense)
+  - Network Science
   - Computational stylometry
   - Computational semantics
   - Computational Linguistics
