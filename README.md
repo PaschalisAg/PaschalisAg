@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60px"/>
   <div id="badges">
     <a href="https://paschalisag.github.io/index.html">
-      <img src="https://img.shields.io/badge/Personal%20Website-61DAFB??style=for-the-badge&logo=react&logoColor=white", alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/Personal%20Website-61DAFB?logo=react&logoColor=white&style=for-the-badge", alt="Personal Website"/>
     <a href="https://www.linkedin.com/in/paschalis-agapitos-1b5284217/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
