@@ -29,9 +29,9 @@ My name is Paschalis Agapitos and currently I am a PhD candidate at the Donostia
 My main research focus is on the implementation of Complex Networks into Cultural Analytics in order to study and examine the relationships and the emergence of ideas between people or ideologies.
 
 My main interests are:
-  - Computational Humanities (in a broad sense)
+  - Computational Humanities
   - Computational Network Science & Graph Theory
-  - Computational stylometry
+  - Computational Stylometry
   - Computational Linguistics & Natural Language Processing (NLP)
 
 During my free time, I try to find a way to process language by writing code; sometimes by training a model to do that (it depends on the mood).
